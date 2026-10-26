@@ -1,0 +1,15 @@
+torch
+numpy
+pandas
+scipy
+scikit-learn
+nibabel
+tqdm
+transformers
+openpyxl
+matplotlib
+huggingface_hub
+pytorch-grad-cam
+einops
+# CT-CLIP code (CT_CLIP + transformer_maskgit): clone https://github.com/ibrahimethemhamamci/CT-CLIP and set CTCLIP_DIR
+# Merlin baseline: pip install merlin-vlm   (see https://github.com/StanfordMIMI/Merlin)
